@@ -18,7 +18,7 @@ if(tLink==window.location.origin+"/"){
   $.get('https://www.cloudflare.com/cdn-cgi/trace', function(data) {
       const ip = data.match(/ip=(.*())/g)[0].replace("ip=","");
       var xhr = new XMLHttpRequest();
-      xhr.open("POST", "https://redirect.jagoanredesign.eu.org/get", true);
+      xhr.open("POST", "https://redirect.bloggerbyte.net/get", true);
       xhr.onreadystatechange = function() {
           if (xhr.readyState == 4) {
               if(xhr.status == 200) {
