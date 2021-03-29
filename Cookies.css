@@ -8,9 +8,9 @@
 .cookie-bubble .cb-wrapper .cb-row .cb-row-content .message{position:relative;width:100%;display:inline-block;color:#000;font-size:15px;margin-top:0}
 .cookie-bubble .cb-wrapper .cb-row .cb-row-content .cb-controls{position:relative;width:100%;float:left;margin-top:10px}
 .cookie-bubble .cb-wrapper .cb-row .cb-image{padding-right:23px}
-.cookie-bubble .cb-wrapper .cb-row .cb-image .cookie-inner-color{fill:#00a4ff}
+.cookie-bubble .cb-wrapper .cb-row .cb-image .cookie-inner-color{fill:#ff0000}
 .cookie-bubble .cb-wrapper .cb-row .cb-image svg{width:75px}
-.cookie-bubble .cb-wrapper .cb-row .agreement-btn{margin:0 10px 0 0;text-decoration:none;color:#fff;background:#00a4ff;padding:10px 20px;border-radius:5px;font-size:14px;opacity:1;border:none;cursor:pointer;text-transform:uppercase;font-weight:600;float:left}
+.cookie-bubble .cb-wrapper .cb-row .agreement-btn{margin:0 10px 0 0;text-decoration:none;color:#fff;background:#ff0000;padding:10px 20px;border-radius:5px;font-size:14px;opacity:1;border:none;cursor:pointer;text-transform:uppercase;font-weight:600;float:left}
 .cookie-bubble .cb-wrapper .cb-row .agreement-btn:hover{background-color:#fd0000}
 .cookie-bubble .cb-wrapper .cb-row .cookie-policy-btn{margin:0;color:#000;padding:10px 0;border-radius:5px;font-size:14px;opacity:.95;border:none;cursor:pointer;font-weight:400;float:left}
 .cookie-bubble .cb-wrapper .cb-row .cookie-policy-btn:hover{opacity:1;text-decoration:underline}
