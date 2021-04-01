@@ -1,4 +1,4 @@
-  var encode = document.getElementById("exparseHTML");
+var encode = document.getElementById("exparseHTML");
 var decode = document.getElementById("exunparseHTML");
 var input = document.getElementById("box-parseunparse");
 var output = document.getElementById("box-output");
